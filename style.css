@@ -1,0 +1,13 @@
+.bar-chart {
+  background-color: #C7D9D9;
+  margin-left: 10px;
+}
+
+div {
+  padding: 20px 10px;
+}
+
+div a {
+  text-decoration: none;
+  color: dodgerblue;
+}
